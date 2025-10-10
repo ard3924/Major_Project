@@ -1,0 +1,12 @@
+ACCESS_ALL_DOWNLOADS,ACCESS_CACHE_FILESYSTEM,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_SERVICE,ACCESS_SHARED_DATA,ACCESS_SUPERUSER,ACCESS_WIFI_STATE,CAMERA,CHANGE_CONFIGURATION,DELETE_CACHE_FILES,READ_ATTACHMENT,READ_CONTACTS,READ_DATA,READ_EXTERNAL_STORAGE,READ_GMAIL,READ_HISTORY_BOOKMARKS,READ_MESSAGES,READ_PHONE_STATE,READ_SETTINGS,READ_SMS,RECEIVE_BOOT_COMPLETED,RECEIVE_SMS,Label
+No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,malware
+No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,malware
+No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,malware
+No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,malware
+No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,malware
+No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Begnin
+No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Begnin
+No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Begnin
+No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Begnin
+No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Begnin
+No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Begnin
