@@ -1,9 +1,7 @@
 from flask import Flask,render_template,url_for,request
 
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd 
-import numpy as np 
+import numpy as np
 
 
 import pickle
